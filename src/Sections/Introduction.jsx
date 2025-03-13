@@ -23,7 +23,7 @@ function Introduction() {
   
   
   return (
-    <section className="py-28 lg:py-40">
+    <section id="introduction" className="py-28 lg:py-40">
       <div className="container">
         <div className="sticky top-20 md:top-24 lg:top-28">
           <div className="flex justify-center">

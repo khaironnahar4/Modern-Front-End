@@ -10,8 +10,8 @@ function Navbar() {
             label: "Home"
         },
         {
-            href: "#feture",
-            label: "Feature"
+            href: "#introduction",
+            label: "Introduction"
         },
         {
             href: "#integration",
@@ -19,7 +19,7 @@ function Navbar() {
         },
         {
             href: "#faq",
-            label: "FAQs"
+            label: "Projects"
         }
     ]
 
